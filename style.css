@@ -93,6 +93,7 @@ main{
 	height: auto;
 	border-radius: 10px;
 	display: inline;
+	margin-bottom: 20px;
 	box-shadow: 0 8px 14px 0 grey, 0 10px 24px 0 grey
 }
 .para{
