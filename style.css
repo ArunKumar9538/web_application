@@ -72,6 +72,11 @@ header{
 main{
 	margin:150px 20px;
 }
+.clg{
+	width: 100%; 
+	height: 310px; 
+	box-sizing: content-box; 
+}
 #ab{
 	width: 49%;
 	display: inline;
